@@ -1,0 +1,22 @@
+{
+  "run": [
+    {
+      "filePath": "/JSA1.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 7336657,
+        "displayName": "Run JSA1.html",
+        "lastRunTimeStamp": 1532506396817
+      }
+    }
+  ]
+}
