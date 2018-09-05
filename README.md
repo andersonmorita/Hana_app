@@ -1,1 +1,1 @@
-# JS Angular
+# JS Angular Mock Odata
